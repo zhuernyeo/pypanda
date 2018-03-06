@@ -89,6 +89,7 @@ Import PyPanda library:
 ```python
 from pypanda import Panda
 from pypanda import Lioness
+from pypanda import AnalyzePanda
 import pandas as pd
 ```
 Run Panda algorithm, leave out motif and PPI data to use Pearson correlation network:
